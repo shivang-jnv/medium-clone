@@ -2,8 +2,8 @@ name = "week-13-offline"
 compatibility_date = "2023-12-01"
 
 [vars]
-DATABASE_URL = "prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiZjI4ZjI2YmQtNDkzYi00MTcyLTgwYmMtNGQwOTBkZjM4MDNiIiwidGVuYW50X2lkIjoiNDRjOWVlMTlmYmZlNjMzYTkyYTNiYjAzNDhlNDlmZWM1MThmOTI0NTIzYTM2MjE5ZGUzZjdkYmVmM2QyNzZkMCIsImludGVybmFsX3NlY3JldCI6IjYxYWVkZDkyLWJkNmEtNDBjMi1iMWZkLWYzOGIxNGRmNjZkYSJ9.goL1vJdpbz4Llfrc43A81vdg6c-CI16s03HcVPNAf8M"
-JWT_SECRET = "secret"
+DATABASE_URL = ""
+JWT_SECRET = ""
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
