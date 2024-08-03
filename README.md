@@ -1,3 +1,3 @@
 ﻿#medium-clone
 
-deployment address: https://medium-clone-swart-three.vercel.app/signup
+deployment link: https://medium-clone-swart-three.vercel.app/signup
